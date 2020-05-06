@@ -1,0 +1,1 @@
+g++ sdl2-window.cpp -lSDL2 -o window
